@@ -32,24 +32,4 @@ Built with a production-ready SaaS architecture, Genora.AI features an end-to-en
 
 ### **Services & Deployment**
 * 💳 **RazorPay** — Credit purchasing via Checkout API 
-
----
-
-## 🏗 System Architecture Flow
-
-``````text``````
-  [ User Request ]
-         │
-         ▼
- ┌───────────────┐        ┌─────────────────┐
- │ React Frontend│ ──────►│ Node/Express API│
- └───────────────┘        └────────┬────────┘
-         ▲                         │
-         │                  ┌──────┴──────┐
-         ├─────────────────►│ AI Engine   │
-         │                  └─────────────┘
-  ┌──────┴──────────┐              │
-  │ RazorPay Gateway│              ▼
-  └─────────────────┘     ┌─────────────────┐
-                          │  MongoDB & Cloud│
-                          └─────────────────┘
+* ☁️ **Render** — Cloud platform hosting for both frontend and backend services
