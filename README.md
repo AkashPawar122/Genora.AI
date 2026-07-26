@@ -33,3 +33,6 @@ Built with a production-ready SaaS architecture, Genora.AI features an end-to-en
 ### **Services & Deployment**
 * 💳 **RazorPay** — Credit purchasing via Checkout API 
 * ☁️ **Render** — Cloud platform hosting for both frontend and backend services
+
+### **Live Link**
+* 💻 **Genora.AI** — [(https://genora-ai-frontend.onrender.com/)](https://genora-ai-frontend.onrender.com/)
