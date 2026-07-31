@@ -2,7 +2,7 @@
 
 **Genora.AI** is a full-stack SaaS platform that empowers users to turn simple text prompts into fully functional, beautifully animated websites — deployed to the web in **one click** 🤯.
 
-Built with a production-ready SaaS architecture, Genora.AI features an end-to-end credit system, secure payments via Stripe, protected authentication routes, and seamless cloud deployment.
+Built with a production-ready SaaS architecture, Genora.AI features an end-to-end credit system, secure payments via Razorpay, protected authentication routes, and seamless cloud deployment.
 
 ---
 
